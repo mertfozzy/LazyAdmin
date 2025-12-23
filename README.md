@@ -13,13 +13,6 @@ From batch software installation (via JSON-driven Winget) to deep system mainten
 
 ---
 
-## 📸 Screenshots
-
-![Dashboard Preview](https://via.placeholder.com/800x450.png?text=Place+Your+Screenshot+Here)
-*(Add a screenshot of your tool here!)*
-
----
-
 ## 🚀 Key Features
 
 ### 1. 📊 Real-Time Dashboard
