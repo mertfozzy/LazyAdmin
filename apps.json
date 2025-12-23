@@ -1,0 +1,68 @@
+[
+  {
+    "Category": "Browsers",
+    "Name": "Google Chrome",
+    "Id": "Google.Chrome",
+    "Description": "Fast and secure web browser."
+  },
+  {
+    "Category": "Browsers",
+    "Name": "Mozilla Firefox",
+    "Id": "Mozilla.Firefox",
+    "Description": "Privacy-focused web browser."
+  },
+  {
+    "Category": "Browsers",
+    "Name": "Microsoft Edge",
+    "Id": "Microsoft.Edge",
+    "Description": "Standard Windows browser."
+  },
+  {
+    "Category": "Communication",
+    "Name": "Zoom",
+    "Id": "Zoom.Zoom",
+    "Description": "Video conferencing tool."
+  },
+  {
+    "Category": "Communication",
+    "Name": "Discord",
+    "Id": "Discord.Discord",
+    "Description": "Chat for communities."
+  },
+  {
+    "Category": "Dev Tools",
+    "Name": "VS Code",
+    "Id": "Microsoft.VisualStudioCode",
+    "Description": "Code editor."
+  },
+  {
+    "Category": "Dev Tools",
+    "Name": "Notepad++",
+    "Id": "Notepad++.Notepad++",
+    "Description": "Lightweight text editor."
+  },
+  {
+    "Category": "Dev Tools",
+    "Name": "Git",
+    "Id": "Git.Git",
+    "Description": "Version control system."
+  },
+  {
+    "Category": "Media & Utils",
+    "Name": "VLC Player",
+    "Id": "VideoLAN.VLC",
+    "Description": "Multimedia player."
+  },
+  {
+    "Category": "Media & Utils",
+    "Name": "7-Zip",
+    "Id": "7zip.7zip",
+    "Description": "File archiver."
+  },
+  {
+    "Category": "Media & Utils",
+    "Name": "Adobe Reader",
+    "Id": "Adobe.Acrobat.Reader.64-bit",
+    "Description": "PDF Viewer."
+  }
+]
