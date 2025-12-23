@@ -51,7 +51,7 @@ Troubleshoot connectivity like a pro:
 
 1.  **Clone the Repository**
     ```powershell
-    git clone [https://github.com/YOUR_USERNAME/LazyAdmin.git](https://github.com/YOUR_USERNAME/LazyAdmin.git)
+    git clone [https://github.com/mertfozzy/LazyAdmin.git](https://github.com/mertfozzy/LazyAdmin.git)
     cd LazyAdmin
     ```
 
