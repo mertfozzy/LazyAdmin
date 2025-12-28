@@ -1,0 +1,7 @@
+{
+  "AppName": "Mert's Enterprise Tool v6",
+  "PrimaryColor": "#2d3436",
+  "SecondaryColor": "#dfe6e9",
+  "SupportEmail": "support@mertcorp.com",
+  "CloudDbUrl": "https://api.ipify.org" 
+}

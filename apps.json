@@ -1,68 +1,32 @@
 [
-  {
-    "Category": "Browsers",
-    "Name": "Google Chrome",
-    "Id": "Google.Chrome",
-    "Description": "Fast and secure web browser."
-  },
-  {
-    "Category": "Browsers",
-    "Name": "Mozilla Firefox",
-    "Id": "Mozilla.Firefox",
-    "Description": "Privacy-focused web browser."
-  },
-  {
-    "Category": "Browsers",
-    "Name": "Microsoft Edge",
-    "Id": "Microsoft.Edge",
-    "Description": "Standard Windows browser."
-  },
-  {
-    "Category": "Communication",
-    "Name": "Zoom",
-    "Id": "Zoom.Zoom",
-    "Description": "Video conferencing tool."
-  },
-  {
-    "Category": "Communication",
-    "Name": "Discord",
-    "Id": "Discord.Discord",
-    "Description": "Chat for communities."
-  },
-  {
-    "Category": "Dev Tools",
-    "Name": "VS Code",
-    "Id": "Microsoft.VisualStudioCode",
-    "Description": "Code editor."
-  },
-  {
-    "Category": "Dev Tools",
-    "Name": "Notepad++",
-    "Id": "Notepad++.Notepad++",
-    "Description": "Lightweight text editor."
-  },
-  {
-    "Category": "Dev Tools",
-    "Name": "Git",
-    "Id": "Git.Git",
-    "Description": "Version control system."
-  },
-  {
-    "Category": "Media & Utils",
-    "Name": "VLC Player",
-    "Id": "VideoLAN.VLC",
-    "Description": "Multimedia player."
-  },
-  {
-    "Category": "Media & Utils",
-    "Name": "7-Zip",
-    "Id": "7zip.7zip",
-    "Description": "File archiver."
-  },
-  {
-    "Category": "Media & Utils",
-    "Name": "Adobe Reader",
-    "Id": "Adobe.Acrobat.Reader.64-bit",
-    "Description": "PDF Viewer."
-  }
+  { "Category": "Browsers", "Name": "Google Chrome", "Id": "Google.Chrome", "Description": "Fast web browser." },
+  { "Category": "Browsers", "Name": "Mozilla Firefox", "Id": "Mozilla.Firefox", "Description": "Privacy browser." },
+  { "Category": "Browsers", "Name": "Microsoft Edge", "Id": "Microsoft.Edge", "Description": "Default browser." },
+  { "Category": "Browsers", "Name": "Brave Browser", "Id": "Brave.Brave", "Description": "Ad-blocker browser." },
+  
+  { "Category": "Communication", "Name": "Zoom", "Id": "Zoom.Zoom", "Description": "Video conference." },
+  { "Category": "Communication", "Name": "Discord", "Id": "Discord.Discord", "Description": "Chat for gamers." },
+  { "Category": "Communication", "Name": "Telegram Desktop", "Id": "Telegram.TelegramDesktop", "Description": "Secure chat." },
+  { "Category": "Communication", "Name": "WhatsApp", "Id": "WhatsApp.WhatsApp", "Description": "Messaging app." },
+  { "Category": "Communication", "Name": "Slack", "Id": "Slack.Slack", "Description": "Team work." },
+
+  { "Category": "Dev Tools", "Name": "VS Code", "Id": "Microsoft.VisualStudioCode", "Description": "Code editor." },
+  { "Category": "Dev Tools", "Name": "Notepad++", "Id": "Notepad++.Notepad++", "Description": "Light editor." },
+  { "Category": "Dev Tools", "Name": "Git", "Id": "Git.Git", "Description": "Version control." },
+  { "Category": "Dev Tools", "Name": "Python 3", "Id": "Python.Python.3.11", "Description": "Programming language." },
+  { "Category": "Dev Tools", "Name": "Node.js (LTS)", "Id": "OpenJS.NodeJS.LTS", "Description": "JS Runtime." },
+
+  { "Category": "Utilities", "Name": "7-Zip", "Id": "7zip.7zip", "Description": "File archiver." },
+  { "Category": "Utilities", "Name": "WinRAR", "Id": "RARLab.WinRAR", "Description": "Archive manager." },
+  { "Category": "Utilities", "Name": "PowerToys", "Id": "Microsoft.PowerToys", "Description": "System utilities." },
+  { "Category": "Utilities", "Name": "AnyDesk", "Id": "AnyDeskSoftwareGmbH.AnyDesk", "Description": "Remote desktop." },
+  { "Category": "Utilities", "Name": "TeamViewer", "Id": "TeamViewer.TeamViewer", "Description": "Remote support." },
+
+  { "Category": "Media & Office", "Name": "VLC Media Player", "Id": "VideoLAN.VLC", "Description": "Plays everything." },
+  { "Category": "Media & Office", "Name": "Spotify", "Id": "Spotify.Spotify", "Description": "Music streaming." },
+  { "Category": "Media & Office", "Name": "Adobe Acrobat Reader", "Id": "Adobe.Acrobat.Reader.64-bit", "Description": "PDF Viewer." },
+  { "Category": "Media & Office", "Name": "LibreOffice", "Id": "TheDocumentFoundation.LibreOffice", "Description": "Free Office suite." },
+
+  { "Category": "Security", "Name": "Wireshark", "Id": "WiresharkFoundation.Wireshark", "Description": "Network analyzer." },
+  { "Category": "Security", "Name": "Nmap", "Id": "Insecure.Nmap", "Description": "Network scanner." }
 ]
