@@ -28,5 +28,5 @@
   { "Category": "Media & Office", "Name": "LibreOffice", "Id": "TheDocumentFoundation.LibreOffice", "Description": "Free Office suite." },
 
   { "Category": "Security", "Name": "Wireshark", "Id": "WiresharkFoundation.Wireshark", "Description": "Network analyzer." },
-  { "Category": "Security", "Name": "Nmap", "Id": "Insecure.Nmap", "Description": "Network scanner." }
+  { "Category": "Security", "Name": "Nmap", "Id": "Insecure.Nmap", "Description": "Network scanner.." }
 ]
